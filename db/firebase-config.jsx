@@ -5,7 +5,7 @@ import { getStorage } from 'firebase/storage';
 import { getDatabase } from 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDvA2MssjcFdCtCcTxhV-0Qx-UhZDJzTuw",
+  apiKey: "",
   authDomain: "mydb-f664c.firebaseapp.com",
   projectId: "mydb-f664c",
   storageBucket: "mydb-f664c.appspot.com",
